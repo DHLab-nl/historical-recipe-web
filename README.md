@@ -1,6 +1,8 @@
 # Historical Recipe Web
 Repo for our paper 'Constructing a Recipe Web from Historical Newspapers'
 
+Authors: Marieke van Erp, Melvin Wevers, Hugo Huurdeman
+
 <img src="figures/workflow.png">
 
 
