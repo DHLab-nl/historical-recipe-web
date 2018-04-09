@@ -1,5 +1,7 @@
-# historical-recipe-web
+# Historical Recipe Web
 repo for our paper 'Constructing a Recipe Web from Historical Newspapers'
+
+<img src="figures/workflow.png">
 
 
 ## Code
@@ -23,3 +25,11 @@ This notebook describes how (1) we extracted the articles from the newspapers us
 
 * Classify_recipes.ipynb & Classify_recipes.py <br>
 This notebook and python script show how we trained the classifier and applied the classifier to the newspaper data to increase our set of historical recipes.
+
+### Training Tag classifier
+We trained a multilabel (tag) classifier on top of the Allerhande data. We then applied this tag classifier to the historical recipes extracted from the newspapers.
+
+
+
+## TO DO:
+Add final dataset without copyrighted material
