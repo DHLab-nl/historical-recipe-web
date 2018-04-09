@@ -1,8 +1,8 @@
 # Historical Recipe Web
-Repo for our paper 'Constructing a Recipe Web from Historical Newspapers'
+__Repo for our paper 'Constructing a Recipe Web from Historical Newspapers'__
 
 Authors: Marieke van Erp, Melvin Wevers, Hugo Huurdeman
-
+<br><br>
 <img src="figures/workflow.png">
 
 
@@ -34,12 +34,12 @@ We trained a multilabel (tag) classifier on top of the Allerhande data. We then 
 * Classifier-tags.py & classifier_Tags.ipynb
 
 
-# Models
+## Models
 This directory contains the trained Models
 
-# Figures
+## Figures
 Here you can find the images used in the paper.
 
-# TO DO:
+## TO DO:
 * Add list of ingredients derived from AH
 * Add final dataset without copyrighted material
