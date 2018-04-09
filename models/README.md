@@ -1,4 +1,6 @@
-# Trained Models
+# Models
+
+This directory contains the trained Models used in the paper
 
 * recipe_classifier: SVC_clf.pkl
 * tag classes: tag_classes.pkl
