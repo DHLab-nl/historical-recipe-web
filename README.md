@@ -1,5 +1,5 @@
 # Historical Recipe Web
-repo for our paper 'Constructing a Recipe Web from Historical Newspapers'
+Repo for our paper 'Constructing a Recipe Web from Historical Newspapers'
 
 <img src="figures/workflow.png">
 
@@ -29,7 +29,15 @@ This notebook and python script show how we trained the classifier and applied t
 ### Training Tag classifier
 We trained a multilabel (tag) classifier on top of the Allerhande data. We then applied this tag classifier to the historical recipes extracted from the newspapers.
 
+* Classifier-tags.py & classifier_Tags.ipynb
 
 
-## TO DO:
-Add final dataset without copyrighted material
+# Models
+This directory contains the trained Models
+
+# Figures
+Here you can find the images used in the paper.
+
+# TO DO:
+* Add list of ingredients derived from AH
+* Add final dataset without copyrighted material
