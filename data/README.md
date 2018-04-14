@@ -1,8 +1,8 @@
 # This folder contains the produced datasets
 
 ## recipe_web.pkl
-This pickle contains the final dataset
-This dataset contains 27,411 recipes that have enriched. The columns in the dataframe dataframe dataframe
+This pickle contains a dataset of 27,411 recipes that we extracted from the historical newspapers and enriched with additional information. <br>
+The columns in the dataframe dataframe are:
 * title: name of the newspaper
 * date: publication date of the recipe
 * doc_url: url to the actual file on the newspaper repository Delpher
