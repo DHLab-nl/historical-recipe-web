@@ -12,6 +12,6 @@ Historical newspapers provide a lens on customs and habits of the past. For exam
 natural language processing, information extraction, food history, digitised newspapers, digital humanities
 
 ## TO DO:
-* Add list of ingredients derived from AH
-* Add final dataset without copyrighted material
 * Add additional figures used in paper
+* Improve quantity extraction
+* Add additional documentation
