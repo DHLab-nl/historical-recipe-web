@@ -2,6 +2,7 @@
 
 ## recipe_web.pkl
 This pickle contains a dataset of 27,411 recipes that we extracted from the historical newspapers and enriched with additional information. <br>
+<br>
 The columns in the dataframe dataframe are:
 * title: name of the newspaper
 * date: publication date of the recipe
