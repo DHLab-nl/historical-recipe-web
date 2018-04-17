@@ -31,7 +31,13 @@ The columns denote:
 * __dbpedia-en\_via\_spotlight__:	  Link to English DBpedia    	 
 
 ## GBIF links 
+gbif\_links\_via\_dbspotlightmatch.tsv Contains the links to GBIF from scientific names for ingredients from the Allerhande dataset harvested via DBpedia spotlight.
 
+The columns denote:  
+* __ingredient__: Ingredient name   
+* __scientific_name__: Scientific name , converted to URL encoding   
+* __GBIF_id__: Record ID in GBIF of the species  
+* __native_range__: Native range according to GBIF encoded using the World Geographical Scheme for Recording Plant Distributions (WGSRPD) 
 
 ## TO DO:
 The quantity list needs to map onto the ingredient list. <br>
