@@ -40,5 +40,6 @@ The columns denote:
 * __native_range__: Native range according to GBIF encoded using the World Geographical Scheme for Recording Plant Distributions (WGSRPD) 
 
 ## TO DO:
-The quantity list needs to map onto the ingredient list. <br>
-Ingredients without quantities are not represented by an empty file in the quantity list now.
+* The quantity list needs to map onto the ingredient list.  
+* Ingredients without quantities are not represented by an empty file in the quantity list now 
+* RDF version of the datasets   
