@@ -9,4 +9,4 @@ This directory contains the trained Models used in the paper
 
 Models can be found here:
 
-https://www.dropbox.com/sh/k8bu5qv6gfaxqqn/AAD9ahrJYHOmpJ8hS8aaFHmha?dl=0
+https://surfdrive.surf.nl/files/index.php/s/FEfw79kiMbkMs9X
